@@ -15,6 +15,13 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+# Redirect default Netlify subdomain to primary domain
+[[redirects]]
+  from = "https://serene-rosalind-940429.netlify.app/*"
+  to = "https://blog.da8ma.com/:splat"
+  status = 301
+  force = true
+
 [[headers]]
   for = "*.webmanifest"
   [headers.values]
