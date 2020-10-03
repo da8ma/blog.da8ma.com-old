@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - cource: Faculty of Law
+  - course: Faculty of Law
     institution: Meijigakuin University
     year: 2014-2018
   #- course: PhD in Artificial Intelligence
