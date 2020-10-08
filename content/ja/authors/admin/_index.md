@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryo Yamada
+title: da8ma
 
 # Username (this should match the folder name)
 authors:
@@ -21,14 +21,14 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- コンテナを用いたサービス運用・監視
+- Ansible、Terraformを使用した構成管理
+- IPv4/IPv6共存技術 (トンネリング,トランスレータ)
 
 education:
   courses:
-  - course: Faculty of Law
-    institution: Meijigakuin University
+  - course: 法学部法律学科
+    institution: 明治学院大学
     year: 2014-2018
   #- course: PhD in Artificial Intelligence
   #  institution: Stanford University
