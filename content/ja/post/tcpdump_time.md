@@ -2,7 +2,7 @@
 Title: "tcpdumpのキャプチャ時間を指定する"
 date: 2019-11-28T21:35:19+09:00
 summary: "tcpdumpの実行時間をローテートオプションで指定する方法"
-tags: ["network", "linux"]
+tags: ["Network", "Linux"]
 profile: false
 ---
 
