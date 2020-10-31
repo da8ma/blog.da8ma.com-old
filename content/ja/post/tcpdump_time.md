@@ -3,14 +3,15 @@ Title: "tcpdumpのキャプチャ時間を指定する"
 date: 2019-11-28T21:35:19+09:00
 summary: "tcpdumpの実行時間をローテートオプションで指定する方法"
 tags: ["network", "linux"]
+profile: false
 ---
 
-###はじめに
+### はじめに
 
 ネットワークのトラブルシューティングやパケットの流れを追うときに使用するtcpdumpだが、
 通常実行時はscript等で制御していない限りキャプチャを実行し続ける。
 
-どうせならコマンドオプションで実行時間を指定できないかと思い調べた。<br>
+どうせならコマンドオプションで実行時間を指定できないかと思い調べた。  
 (終了するのを忘れてpcapファイルが肥大化してたとか避けたい。。)
 
 ### 結論
@@ -34,14 +35,14 @@ tags: ["network", "linux"]
 秒数以外の値を何も指定しない場合は `TERM` シグナルで引数で指定しているコマンドを終了させるので、この方法がシンプルで良さそう。<br>
 ~~(この方法のほうが楽のような気がしてきた。)~~
 
-[https://qiita.com/gzock/items/bbe2c8798ccc4c355fa6:embed:cite]
+https://qiita.com/gzock/items/bbe2c8798ccc4c355fa6
 
 
 #### 参考文献
 
-[https://moznion.hatenadiary.com/entry/2017/11/09/094634:title]
+https://moznion.hatenadiary.com/entry/2017/11/09/094634
 
-[https://hydrocul.github.io/wiki/commands/timeout.html:title]
+https://hydrocul.github.io/wiki/commands/timeout.html
 
 
 
