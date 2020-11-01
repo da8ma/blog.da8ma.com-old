@@ -4,7 +4,7 @@ summary: "macOS固有の便利コマンドを紹介"
 date: 2019-07-30T16:28:32+09:00
 tags: [""]
 categories: ["macOS"]
-draft: true
+draft: false
 ---
 
 
