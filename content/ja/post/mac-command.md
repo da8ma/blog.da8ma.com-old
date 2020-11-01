@@ -2,13 +2,14 @@
 title: "macOS固有のコマンドについて調べる。"
 summary: "macOS固有の便利コマンドを紹介"
 date: 2019-07-30T16:28:32+09:00
-tags: ["macOS"]
+tags: [""]
+categories: ["macOS"]
 draft: true
 ---
 
 
 
-macOSはUNIXライクのOSとして有名ですが、固有のコマンドが存在します。 <br>
+macOSはUNIXライクのOSとして有名ですが、固有のコマンドが存在します。  
 覚えておくと後々便利そうなコマンドを備忘録として残す。
 
  
@@ -31,7 +32,7 @@ $ pbcopy　(終了はCtrl + D)
 hogehoge
 ```
 
-<figure class="figure-image figure-image-fotolife" title="pbcopy_clipboard">[f:id:ryo8ma:20190730152816p:plain]<figcaption>pbcopy_clipboard</figcaption></figure>
+<img src="https://res.cloudinary.com/yamaaa/image/upload/c_scale,e_auto_color,h_160,q_80,w_736/v1604151407/blog/pbcopy_clipboard.png">
 
 クリップボードに保存されていることが確認できます。
 
@@ -71,7 +72,7 @@ $ screencapture -ic ~/Desktop/hogehoge.png
 
 ・WEBページを開く
 ```
-$ open https://ryo8md-ls.hatenablog.com/
+$ open https://blog.da8ma.com/
 ```
 
 
