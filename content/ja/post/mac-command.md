@@ -9,10 +9,7 @@ draft: false
 
 
 
-macOSはUNIXライクのOSとして有名ですが、固有のコマンドが存在します。  
-覚えておくと後々便利そうなコマンドを備忘録として残す。
-
- 
+macOSはUNIXライクのOSとして有名ですが、固有のコマンドが存在します。 覚えておくと後々便利そうなコマンドを備忘録としてまとめます。
 
 ## 1.pbcopy
 
@@ -83,8 +80,8 @@ $ open https://blog.da8ma.com/
 ##### 参考情報
 
 
-[https://do-zan.com/mac-terminal-screencapture/]
+https://do-zan.com/mac-terminal-screencapture/
 
-[https://macwiki.osdn.jp/wiki/index.php/OSX%E3%81%AE%E5%9B%BA%E6%9C%89%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89]
+https://macwiki.osdn.jp/wiki/index.php/OSX%E3%81%AE%E5%9B%BA%E6%9C%89%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89
 
 
