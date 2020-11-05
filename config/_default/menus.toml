@@ -24,8 +24,8 @@
 #  weight = 40
 
 [[main]]
-  name = "Certifications"
-  url = "#certifications"
+  name = "Accomplishments"
+  url = "#accomplishments"
   weight = 40
 
 [[main]]
