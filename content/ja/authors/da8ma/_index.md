@@ -4,7 +4,7 @@ title: da8ma
 
 # Username (this should match the folder name)
 authors:
-- admin
+- da8ma
 
 # Is this the primary user of the site?
 superuser: true
